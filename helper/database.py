@@ -19,7 +19,7 @@ class Database:
             prefix = None,
             suffix = None,
             metadata = True,
-            metadata_code = "Telegram : @SuperToppers"
+            metadata_code = "Telegram : @KPSBots"
         )
 
     async def add_user(self, b, m):
