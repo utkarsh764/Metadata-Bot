@@ -18,7 +18,7 @@ class Database:
             caption = None,
             prefix = None,
             suffix = None,
-            metadata = True,
+            metadata = False,
             metadata_code = "Telegram : @KPSBots"
         )
 
