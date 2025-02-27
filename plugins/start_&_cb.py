@@ -24,7 +24,7 @@ async def start(client, message):
 ],[
     InlineKeyboardButton('💝 sᴜʙsᴄʀɪʙᴇ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ', url='https://youtube.com/@SuperToppers')
 ],[
-    InlineKeyboardButton('📊 ᴄʜᴇᴄᴋ ʙᴏᴛs ʟɪᴠᴇ sᴛᴀᴛᴜs', url='https://stats.uptimerobot.com/hbonvLjQFt/798657686')
+    InlineKeyboardButton('📊 ᴄʜᴇᴄᴋ ʙᴏᴛs ʟɪᴠᴇ sᴛᴀᴛᴜs', url='https://stats.uptimerobot.com/YuwpXxiF0H/798671236')
     ],[
         InlineKeyboardButton('💁 ᴀʙᴏᴜᴛ', callback_data='about'),
         InlineKeyboardButton('👨‍💻 ʜᴇʟᴘ', callback_data='help')
@@ -75,7 +75,7 @@ async def cb_handler(client, query: CallbackQuery):
 ],[
     InlineKeyboardButton('💝 sᴜʙsᴄʀɪʙᴇ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ', url='https://youtube.com/@SuperToppers')
 ],[
-    InlineKeyboardButton('📊 ᴄʜᴇᴄᴋ ʙᴏᴛs ʟɪᴠᴇ sᴛᴀᴛᴜs', url='https://stats.uptimerobot.com/hbonvLjQFt/798657686')
+    InlineKeyboardButton('📊 ᴄʜᴇᴄᴋ ʙᴏᴛs ʟɪᴠᴇ sᴛᴀᴛᴜs', url='https://stats.uptimerobot.com/YuwpXxiF0H/798671236')
     ],[
         InlineKeyboardButton('💁 ᴀʙᴏᴜᴛ', callback_data='about'),
         InlineKeyboardButton('👨‍💻 ʜᴇʟᴘ', callback_data='help')
