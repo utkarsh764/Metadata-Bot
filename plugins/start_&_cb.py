@@ -17,11 +17,17 @@ async def start(client, message):
     user = message.from_user
     await db.add_user(client, message)
     button = InlineKeyboardMarkup([[
-        InlineKeyboardButton(
-            '⛅ ᴜᴘᴅᴀᴛᴇs', url='https://t.me/KPSBots')
-    ], [
-        InlineKeyboardButton('❄️ ᴀʙᴏᴜᴛ', callback_data='about'),
-        InlineKeyboardButton('❗ ʜᴇʟᴘ', callback_data='help')
+        InlineKeyboardButton('❣️ ᴅᴇᴠᴇʟᴏᴘᴇʀ ❣️', url='https://t.me/UncleChipssBot')
+],[
+    InlineKeyboardButton('🔍 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://t.me/SuperToppers0'),
+    InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇ ɢʀᴏᴜᴘ', url='https://t.me/SuperToppers')
+],[
+    InlineKeyboardButton('💝 sᴜʙsᴄʀɪʙᴇ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ', url='https://youtube.com/@SuperToppers')
+],[
+    InlineKeyboardButton('📊 ᴄʜᴇᴄᴋ ʙᴏᴛs ʟɪᴠᴇ sᴛᴀᴛᴜs', url='https://stats.uptimerobot.com/hbonvLjQFt/798657686')
+    ],[
+        InlineKeyboardButton('💁 ᴀʙᴏᴜᴛ', callback_data='about'),
+        InlineKeyboardButton('👨‍💻 ʜᴇʟᴘ', callback_data='help')
     ]])
     if Config.START_PIC:
         await message.reply_photo(Config.START_PIC, caption=Txt.START_TXT.format(user.mention), reply_markup=button)
@@ -62,12 +68,18 @@ async def cb_handler(client, query: CallbackQuery):
             text=Txt.START_TXT.format(query.from_user.mention),
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup([[
-                InlineKeyboardButton(
-                    '⛅ Uᴩᴅᴀᴛᴇꜱ', url='https://t.me/KPSBots')
-            ], [
-                InlineKeyboardButton('❄️ ᴀʙᴏᴜᴛ', callback_data='about'),
-                InlineKeyboardButton('❗ ʜᴇʟᴘ', callback_data='help')
-            ]])
+                InlineKeyboardButton('❣️ ᴅᴇᴠᴇʟᴏᴘᴇʀ ❣️', url='https://t.me/UncleChipssBot')
+],[
+    InlineKeyboardButton('🔍 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://t.me/SuperToppers0'),
+    InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇ ɢʀᴏᴜᴘ', url='https://t.me/SuperToppers')
+],[
+    InlineKeyboardButton('💝 sᴜʙsᴄʀɪʙᴇ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ', url='https://youtube.com/@SuperToppers')
+],[
+    InlineKeyboardButton('📊 ᴄʜᴇᴄᴋ ʙᴏᴛs ʟɪᴠᴇ sᴛᴀᴛᴜs', url='https://stats.uptimerobot.com/hbonvLjQFt/798657686')
+    ],[
+        InlineKeyboardButton('💁 ᴀʙᴏᴜᴛ', callback_data='about'),
+        InlineKeyboardButton('👨‍💻 ʜᴇʟᴘ', callback_data='help')
+    ]])
         )
     elif data == "help":
         await query.message.edit_text(
