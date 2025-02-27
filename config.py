@@ -48,9 +48,9 @@ Tʜɪs Bᴏᴛ Aʟꜱᴏ Sᴜᴘᴘᴏʀᴛs Cᴜsᴛᴏᴍ Tʜᴜᴍʙɴᴀɪʟ
 
     ABOUT_TXT = """<b> ════❰ ʀᴇɴᴀᴍᴇʀ ʙᴏᴛ ❱═❍⊱❁۪۪
 ║╭━━━━━━━━━━━━━━━➣
-║┣⪼📃ʙᴏᴛ : [Rᴇɴᴀᴍᴇʀ Bᴏᴛ](https://t.me/ToppersRenamer_Bot)
-║┣⪼👦Cʀᴇᴀᴛᴏʀ : [Sᴜᴊᴏʏ 👑](https://t.me/UncleChipssBot)
-║┣⪼🤖Uᴘᴅᴀᴛᴇ : [Sᴜᴘᴇʀ Tᴏᴘᴘᴇʀs](https://t.me/SuperToppers)
+║┣⪼📃ʙᴏᴛ : <a href=https://t.me/ToppersRenamer_Bot>Rᴇɴᴀᴍᴇʀ Bᴏᴛ</a>
+║┣⪼👦Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/UncleChipssBot>Sᴜᴊᴏʏ 👑</a>
+║┣⪼🤖Uᴘᴅᴀᴛᴇ : <a href=https://t.me/SuperToppers>Sᴜᴘᴇʀ Tᴏᴘᴘᴇʀs</a>
 ║┣⪼📡Hᴏsᴛᴇᴅ ᴏɴ : Sᴜᴘᴇʀ Fᴀsᴛ
 ║┣⪼🗣️Lᴀɴɢᴜᴀɢᴇ : Pʏᴛʜᴏɴ3
 ║┣⪼📚Lɪʙʀᴀʀʏ : Pʏʀᴏɢʀᴀᴍ Gᴀᴛʜᴇʀ 2.11.0 
