@@ -72,14 +72,7 @@ Exᴀᴍᴩʟᴇ: <code> /set_caption 📕 Fɪʟᴇ Nᴀᴍᴇ: {filename}
 <b>•></b> Sᴇɴᴅ Aɴy Fɪʟᴇ Aɴᴅ Tyᴩᴇ Nᴇᴡ Fɪʟᴇ Nɴᴀᴍᴇ \nAɴᴅ Aᴇʟᴇᴄᴛ Tʜᴇ Fᴏʀᴍᴀᴛ [ document, video, audio ].
 """
 
-    SEND_METADATA = """
-❪ SET CUSTOM METADATA ❫
-
-☞ Fᴏʀ Exᴀᴍᴘʟᴇ:
-
-◦ <code>Telegram : @KPSBots</code>
-"""
-
+    
     PROGRESS_BAR = """<b>\n
 ╭━━━━❰ᴘʀᴏɢʀᴇss ʙᴀʀ❱
 🗃️ sɪᴢᴇ: {1} | {2}
