@@ -39,17 +39,26 @@ class Config(object):
 
 class Txt(object):
     # part of text configuration
-    START_TXT = """<b>Hɪ {} 👋,
+    START_TXT = """<b>Hɪ {}✨,
 Tʜɪs Is Aɴ Aᴅᴠᴀɴᴄᴇᴅ Aɴᴅ Yᴇᴛ Pᴏᴡᴇʀꜰᴜʟ Rᴇɴᴀᴍᴇ Bᴏᴛ
 Usɪɴɢ Tʜɪs Bᴏᴛ Yᴏᴜ Cᴀɴ Rᴇɴᴀᴍᴇ & Cʜᴀɴɢᴇ Tʜᴜᴍʙɴᴀɪʟ Oꜰ Yᴏᴜʀ Fɪʟᴇ
 Yᴏᴜ Cᴀɴ Aʟsᴏ Cᴏɴᴠᴇʀᴛ Vɪᴅᴇᴏ Tᴏ Fɪʟᴇ & Fɪʟᴇ Tᴏ Vɪᴅᴇᴏ
 Tʜɪs Bᴏᴛ Aʟꜱᴏ Sᴜᴘᴘᴏʀᴛs Cᴜsᴛᴏᴍ Tʜᴜᴍʙɴᴀɪʟ Aɴᴅ Cᴜsᴛᴏᴍ Cᴀᴘᴛɪᴏɴ
 """
 
-    ABOUT_TXT = """<b>╭───────────⍟
-• ᴍy ɴᴀᴍᴇ : {}
-• ᴜᴘᴅᴀᴛᴇꜱ : <a href=https://t.me/SuperToppers>Sᴜᴘᴇʀ Tᴏᴘᴘᴇʀs</a>
-╰───────────────⍟ """
+    ABOUT_TXT = """<b>
+════❰ ʀᴇɴᴀᴍᴇʀ ʙᴏᴛ ❱═❍⊱❁۪۪
+║╭━━━━━━━━━━━━━━━➣
+║┣⪼📃ʙᴏᴛ : [Rᴇɴᴀᴍᴇʀ Bᴏᴛ](https://t.me/ToppersRenamer_Bot)
+║┣⪼👦Cʀᴇᴀᴛᴏʀ : [Sᴜᴊᴏʏ 👑](https://t.me/UncleChipssBot)
+║┣⪼🤖Uᴘᴅᴀᴛᴇ : [Sᴜᴘᴇʀ Tᴏᴘᴘᴇʀs](https://t.me/SuperToppers)
+║┣⪼📡Hᴏsᴛᴇᴅ ᴏɴ : Sᴜᴘᴇʀ Fᴀsᴛ
+║┣⪼🗣️Lᴀɴɢᴜᴀɢᴇ : Pʏᴛʜᴏɴ3
+║┣⪼📚Lɪʙʀᴀʀʏ : Pʏʀᴏɢʀᴀᴍ Gᴀᴛʜᴇʀ 2.11.0 
+║┣⪼🗒️Vᴇʀsɪᴏɴ : 0.18.3
+║╰━━━━━━━━━━━━━━━➣
+╚══════════════════❍
+"""
 
     HELP_TXT = """
 🌌 <b><u>Hᴏᴡ Tᴏ Sᴇᴛ Tʜᴜᴍʙɴɪʟᴇ</u></b>
@@ -69,7 +78,7 @@ Exᴀᴍᴩʟᴇ: <code> /set_caption 📕 Fɪʟᴇ Nᴀᴍᴇ: {filename}
 ⏰ Dᴜʀᴀᴛɪᴏɴ: {duration} </code>
 
 ✏️ <b><u>Hᴏᴡ Tᴏ Rᴇɴᴀᴍᴇ A Fɪʟᴇ</u></b>
-<b>•></b> Sᴇɴᴅ Aɴʏ Fɪʟᴇ Aɴᴅ Tʏᴩᴇ Nᴇᴡ Fɪʟᴇ Nᴀᴍᴇ Aɴᴅ Aᴇʟᴇᴄᴛ Tʜᴇ Fᴏʀᴍᴀᴛ [ document, video, audio ].
+<b>•></b> Sᴇɴᴅ Aɴʏ Fɪʟᴇ Aɴᴅ Tʏᴩᴇ Nᴇᴡ Fɪʟᴇ Nᴀᴍᴇ Aɴᴅ Sᴇʟᴇᴄᴛ Tʜᴇ Fᴏʀᴍᴀᴛ [ document, video, audio ].
 """
 
     
