@@ -48,7 +48,7 @@ Tʜɪs Bᴏᴛ Aʟꜱᴏ Sᴜᴘᴘᴏʀᴛs Cᴜsᴛᴏᴍ Tʜᴜᴍʙɴᴀɪʟ
 
     ABOUT_TXT = """<b>╭───────────⍟
 • ᴍy ɴᴀᴍᴇ : {}
-• ᴜᴘᴅᴀᴛᴇꜱ : <a href=https://t.me/KPSBots>ᴋᴘꜱ ʙᴏᴛꜱ</a>
+• ᴜᴘᴅᴀᴛᴇꜱ : <a href=https://t.me/SuperToppers>ᴋᴘꜱ ʙᴏᴛꜱ</a>
 ╰───────────────⍟ """
 
     HELP_TXT = """
