@@ -9,12 +9,12 @@ class Config(object):
     # pyro client config
     API_ID = os.environ.get("API_ID", "27589191")  # ⚠️ Required
     API_HASH = os.environ.get("API_HASH", "094c70fee92b47679abeeb0922e12440")  # ⚠️ Required
-    BOT_TOKEN = os.environ.get("BOT_TOKEN", "")  # ⚠️ Required
+    BOT_TOKEN = os.environ.get("BOT_TOKEN", "7786105206:AAHm0iceXktLQugF_5xs-lRj8xjbtMR-xE0")  # ⚠️ Required
 
     # premium 4g renaming client
     STRING_API_ID = os.environ.get("STRING_API_ID", "22182189")
     STRING_API_HASH = os.environ.get("STRING_API_HASH", "5e7c4088f8e23d0ab61e29ae11960bf5")
-    STRING_SESSION = os.environ.get("STRING_SESSION", "")
+    STRING_SESSION = os.environ.get("STRING_SESSION", "BQFSeS0AKfPnLXJMyV_ZGeFdJZ2igY0zh9MI0D5rQdPhxiX9xLqGirX8_kFQ7knGqF-Eyw5ZxfjyQOIuH7XUexAR0Ni6QfXO8pqTcA8BgGstPcNbLGELTZvqD6CMKaLcTqVSJTVReqTrSk-vHAeyDP4f55Go_WWVtOdAMHxPA9fUfMbhXokFt5UmmbMBcHl84GmWXSwlHLHfNu2-7lLo8klE-CrxwOl5zsiF6wnMzHz-XYcOVnJw6R6YSQK2DuAM-4KT1El6MIIBlhLbZ5gpUUeWYnyqtN7_khol4lAYywFSHdvP7P2Un_PeHdqSrPJsfz6b2-XrTJaT8iPDVlEZ_4gyDCknDwAAAABIXrspAA")
 
     # database config
     DB_NAME = os.environ.get("DB_NAME", "Cluster0")
@@ -24,10 +24,10 @@ class Config(object):
     BOT_UPTIME = time.time()
     START_PIC = os.environ.get("START_PIC", "https://ibb.co/spZf17n5")
     ADMIN = [int(admin) if id_pattern.search(
-        admin) else admin for admin in os.environ.get('ADMIN', '8181241262').split()]  # ⚠️ Required
+        admin) else admin for admin in os.environ.get('ADMIN', '1214167849').split()]  # ⚠️ Required
     
     FORCE_SUB = os.environ.get("FORCE_SUB", "supertopperschannel") # ⚠️ Required Username without @
-    LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002424733644"))  # ⚠️ Required
+    LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002488517471"))  # ⚠️ Required
     FLOOD = int(os.environ.get("FLOOD", '10'))
     BANNED_USERS = set(int(x) for x in os.environ.get(
         "BANNED_USERS", "1234567890").split())
